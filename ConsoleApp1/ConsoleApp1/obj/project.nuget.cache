@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKBeGoIVQjh8UOEIvDlx22UNOcdZv474ioIp0rgnv7O8WgbX0UF029QjbjeLrnuvzCd33gd5f7AqP4KkBPv+Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thusa\\OneDrive\\Máy tính\\test123\\Test123\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thusa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
